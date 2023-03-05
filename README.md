@@ -1,2 +1,1 @@
-# RepositorioHenry
-Este repositorio hace parte del M02 Terminal del Archivo homework.md
+Este repositorio hace parte del M02 Terminal del Archivo homework.md y ha sido clonado desde github a mi carpeta RepositorioHenry o escritorio local.
